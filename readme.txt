@@ -1,5 +1,3 @@
-# Mathemathical Expression Evaluator
-
 Usage: excel [OPTIONS] ExcelFile PasteFile Cell1 Cell2 OutCell1 OutCell2 [Chart1 [Chart2 ..]]
    or: excel =FORMULA
 

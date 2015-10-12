@@ -1,0 +1,6 @@
+D:\02 Workspace\00 CSharp\cmd\excel\source\bin\Debug\excel.exe.config
+D:\02 Workspace\00 CSharp\cmd\excel\source\obj\x86\Debug\excel.csproj.ResolveComReference.cache
+D:\02 Workspace\00 CSharp\cmd\excel\source\bin\Debug\excel.exe
+D:\02 Workspace\00 CSharp\cmd\excel\source\bin\Debug\excel.pdb
+D:\02 Workspace\00 CSharp\cmd\excel\source\obj\x86\Debug\excel.exe
+D:\02 Workspace\00 CSharp\cmd\excel\source\obj\x86\Debug\excel.pdb

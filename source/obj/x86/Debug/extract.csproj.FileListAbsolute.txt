@@ -1,0 +1,8 @@
+D:\02 Workspace\00 CSharp\Flexcom\mcsdar\source\bin\Debug\extract.exe.config
+D:\02 Workspace\00 CSharp\cmd\excel\source\bin\Debug\extract.exe.config
+D:\02 Workspace\00 CSharp\cmd\excel\source\bin\Debug\extract.exe
+D:\02 Workspace\00 CSharp\cmd\excel\source\bin\Debug\extract.pdb
+D:\02 Workspace\00 CSharp\cmd\excel\source\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\02 Workspace\00 CSharp\cmd\excel\source\obj\x86\Debug\extract.exe
+D:\02 Workspace\00 CSharp\cmd\excel\source\obj\x86\Debug\extract.pdb
+D:\02 Workspace\00 CSharp\cmd\excel\source\obj\x86\Debug\extract.csproj.ResolveComReference.cache
