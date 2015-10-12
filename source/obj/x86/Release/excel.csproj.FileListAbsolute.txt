@@ -4,3 +4,7 @@ D:\02 Workspace\00 CSharp\cmd\excel\source\bin\Release\excel.pdb
 D:\02 Workspace\00 CSharp\cmd\excel\source\obj\x86\Release\excel.csproj.ResolveComReference.cache
 D:\02 Workspace\00 CSharp\cmd\excel\source\obj\x86\Release\excel.exe
 D:\02 Workspace\00 CSharp\cmd\excel\source\obj\x86\Release\excel.pdb
+D:\Workspace\excel\source\bin\Release\excel.exe.config
+D:\Workspace\excel\source\obj\x86\Release\excel.csproj.ResolveComReference.cache
+D:\Workspace\excel\source\obj\x86\Release\excel.exe
+D:\Workspace\excel\source\obj\x86\Release\excel.pdb
